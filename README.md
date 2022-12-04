@@ -11,11 +11,8 @@ python setup.py
 ## Some Thoery for better understabding of the project:
 ### The training pipileine
 Training pipelines let you perform custom machine learning (ML) training and automatically create a Model resource based on your training output.
-<center>
 
 ![](https://iili.io/HBI89l2.png)
-
-</center>
 
 #### Data Ingetion:
 Data ingestion is the process of obtaining and importing data for immediate use or storage in a database. To ingest something is to take something in or absorb something. Data can be streamed in real time or ingested in batches. In real-time data ingestion, each data item is imported as the source emits it.
