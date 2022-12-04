@@ -12,7 +12,9 @@ python setup.py
 ### The training pipileine
 Training pipelines let you perform custom machine learning (ML) training and automatically create a Model resource based on your training output.
 <center>
+
 ![](https://iili.io/HBI89l2.png)
+
 </center>
 
 #### Data Ingetion:
